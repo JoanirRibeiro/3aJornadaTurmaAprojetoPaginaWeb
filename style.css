@@ -1,11 +1,13 @@
-.texto {
-    color: red;
-    text-align: center;
-    font-size: 20px;
-}
-
 #titulo {
     text-align: center;
     color: rgb(34,139,34);
 }
+
+.texto {
+    color: #748E63;
+    text-align: center;
+    font-size: 20px;
+}
+
+
 
