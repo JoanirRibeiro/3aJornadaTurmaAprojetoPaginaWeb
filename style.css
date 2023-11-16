@@ -18,5 +18,10 @@ body {
     background-color: #F9B572;
 }
 
+#banner {
+    width: 300px;
+    margin: 0;
+    padding: 0;
+}
 
 
