@@ -24,4 +24,15 @@ body {
     padding: 0;
 }
 
+#cabecalho {
+    background-color: #2B2A4C;
+}
+
+#conteudo {
+    background-color: #B31312;
+}
+
+#rodape {
+    background-color: #EA906C;
+}
 
