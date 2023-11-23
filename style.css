@@ -24,15 +24,15 @@ body {
     padding: 0;
 }
 
-#cabecalho {
+.cabecalho {
     background-color: #2B2A4C;
 }
 
-#conteudo {
+.conteudo {
     background-color: #B31312;
 }
 
-#rodape {
+.rodape {
     background-color: #EA906C;
 }
 
