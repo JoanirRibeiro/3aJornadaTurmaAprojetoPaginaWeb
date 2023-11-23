@@ -22,13 +22,19 @@
 
 .cabecalho {
     background-color: #2B2A4C;
+    margin: 0;
+    padding: 0;
 }
 
 .conteudo {
     background-color: #B31312;
+    margin: 0;
+    padding: 0;
 }
 
 .rodape {
     background-color: #EA906C;
+    margin: 0;
+    padding: 0;
 }
 
