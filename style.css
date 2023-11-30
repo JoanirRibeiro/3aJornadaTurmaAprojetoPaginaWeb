@@ -19,7 +19,7 @@
     color: white;
     border-bottom: 5px solid #EA906C;
     justify-content: space-around;
-    display: inline-block;
+    display: inline-flex;
 }
 
 .conteudo {
