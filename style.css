@@ -23,7 +23,10 @@
 .cabecalho {
     background-color: #2B2A4C;
     margin: 0;
-    padding: 5%;
+    padding: 20px;
+    font-size: 32px;
+    color: white;
+    border-bottom: 2px, solid,#EA906C ;
 }
 
 .conteudo {
